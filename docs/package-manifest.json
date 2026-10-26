@@ -1,0 +1,33 @@
+{
+  "version": "a320095",
+  "package_label": "终极10月25日",
+  "published_date": "2026-10-26",
+  "documented_build_date": "2026-10-21",
+  "archive": {
+    "name": "港硕生活模拟器_轻松版_终极10月25日.zip",
+    "bytes": 12471607,
+    "sha256": "813c8ede4220a4e57b4ea6b8fd10788977556debd74d35b2b068e2eb807d99ac"
+  },
+  "files": [
+    {
+      "path": "开始游戏.html",
+      "bytes": 17183971,
+      "sha256": "05e3ad48f64113b6f0bf65df3fb034ae6536ea5e35cf46860f2c84e1ef0ab57b"
+    },
+    {
+      "path": "版本与已知问题.txt",
+      "bytes": 15042,
+      "sha256": "586bf3b430403d0d406a2996aeb75bff31827bc1850f8dcf1b92aee0164c4e02"
+    },
+    {
+      "path": "第三方许可说明.txt",
+      "bytes": 6632,
+      "sha256": "13e9db49207febed2788d5617bb8d84532e322c89eb3a93acc88d4b002a1a09b"
+    },
+    {
+      "path": "试玩说明.txt",
+      "bytes": 6613,
+      "sha256": "8a2bb703d2412cb3b0d7ee97f93c4fcef0313359a3e5242aa765af05a39d9d9b"
+    }
+  ]
+}
