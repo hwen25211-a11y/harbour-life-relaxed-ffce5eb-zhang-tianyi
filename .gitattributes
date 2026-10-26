@@ -1,0 +1,5 @@
+# Preserve the provided single-file game and original notices byte-for-byte.
+*.html -text
+*.txt -text
+*.md text eol=lf
+*.json text eol=lf

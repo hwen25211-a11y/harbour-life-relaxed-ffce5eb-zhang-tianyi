@@ -1,7 +1,7 @@
-港硕生活模拟器 · 轻松版四轮样例 ffce5eb
+﻿港硕生活模拟器 · 轻松版四轮样例 a320095
 第三方许可说明
 
-“港硕生活模拟器_轻松版_四轮样例_ffce5eb html -张天怡.html”内嵌了下列开源软件的已编译代码。它们均以 MIT 许可证发布，许可证全文附在本文件后面。
+“开始游戏.html”内嵌了下列开源软件的已编译代码。它们均以 MIT 许可证发布，许可证全文附在本文件后面。
 
 - React、React DOM、Scheduler（Meta Platforms, Inc. 及其关联方）
 - Phosphor Icons for React（Phosphor Icons）
