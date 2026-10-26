@@ -7,7 +7,7 @@
 - 原 ZIP：12,471,607 字节，CRC 完整性检查通过。
 - SHA-256：`813c8ede4220a4e57b4ea6b8fd10788977556debd74d35b2b068e2eb807d99ac`。
 - ZIP 内含一个目录及四个文件，全部放入仓库；四个文件与原包逐一进行字节/SHA-256 核对。
-- Release ZIP 仅补上 `.zip` 扩展名，未重压缩或修改包内内容。文件级清单见 [package-manifest.json](package-manifest.json)。
+- Release ZIP 使用稳定的英文下载文件名并保留中文显示标题，未重压缩或修改包内内容。文件级清单见 [package-manifest.json](package-manifest.json)。
 
 ## 本次浏览器检查
 

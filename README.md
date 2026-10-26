@@ -4,7 +4,7 @@
 
 ## 下载与运行
 
-到 [最新 Release](https://github.com/hwen25211-a11y/harbour-life-relaxed-ffce5eb-zhang-tianyi/releases/tag/a320095) 下载 **港硕生活模拟器_轻松版_终极10月25日.zip**，完整解压后双击文件夹内的 **开始游戏.html**。无需安装 Unity、Node.js 或 Python，可以离线游玩。Windows 请先使用「全部解压缩」，不要在压缩包预览里运行。
+到 [最新 Release](https://github.com/hwen25211-a11y/harbour-life-relaxed-ffce5eb-zhang-tianyi/releases/tag/a320095) 下载 [港硕生活模拟器_轻松版_终极10月25日.zip](https://github.com/hwen25211-a11y/harbour-life-relaxed-ffce5eb-zhang-tianyi/releases/download/a320095/Harbour-Life-Relaxed-20261025-a320095.zip)，完整解压后双击文件夹内的 **开始游戏.html**。下载文件名为 `Harbour-Life-Relaxed-20261025-a320095.zip`，包内仍是原中文文件夹和文件。无需安装 Unity、Node.js 或 Python，可以离线游玩。Windows 请先使用「全部解压缩」，不要在压缩包预览里运行。
 
 升级、移动文件或更换浏览器前，请在「设置与存档 → 存档」导出进度，再到新版导入。原版《港硕生活模拟器》的存档不能导入轻松版。
 
